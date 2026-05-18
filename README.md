@@ -1,8 +1,8 @@
-# Olá, eu sou Thiago! / Hi, I'm Thiago! 👋
+# Olá, eu sou Thiago! / Hi, I'm Thiago! 
 
-<align="center">
+<p align="center">
   <a href="#br">Português 🇧🇷</a> | <a href="#en">English 🇺🇸</a>
-</align>
+</p>
 
 ---
 
